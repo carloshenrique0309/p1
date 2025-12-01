@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+plotly
+scikit-learn
+python-dateutil
